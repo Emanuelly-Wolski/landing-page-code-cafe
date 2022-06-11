@@ -10,7 +10,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.s
 </div>
   
 ## Visualização 💻
-A página está responsiva, caso queira navegar nela em seu desktop ou celular, basta acessar o seguinte link:
+A página está responsiva, caso queira navegar nela em seu desktop ou celular, basta acessar o seguinte link: https://emanuelly-wolski.github.io/landing-page-code-cafe/
 
 [<img src="./code-cafe.gif" alt="gif do site">]
 
