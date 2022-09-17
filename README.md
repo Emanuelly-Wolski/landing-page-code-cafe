@@ -1,6 +1,6 @@
 ## Landing Page Code Café ☕
 #### Landing page do Code Café feita no curso DevQuest de Desenvolvimento Web Front-end em Junho de 2022. Ela possui três seções específicas sendo: Quem Somos, Onde estamos e Contato, podemos navegar na página normalmente, além de poder fazê-lo ao clicar nos botões do menu horinzontal, pois estes possuem links de direcionamento.
-#### Neste projeto pude aprender e aplicar conceitos de planejamento de um site de página única, estruturação com tags HTML, estilização utilizando propriedades CSS, Clean code, responsividade e inúmeros outros relacionados à Desenvolvimento Web.
+#### Neste projeto pude aprender e aplicar conceitos de planejamento de um site de página única, estruturação com tags HTML, estilização utilizando importantes propriedades CSS, Clean code, responsividade e inúmeros outros relacionados à Desenvolvimento Web.
 
 ## Tecnologias utilizadas ⚔
 <div style="display: inline_block"><br>
